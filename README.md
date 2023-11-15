@@ -8,7 +8,7 @@ const Omar = {
   objective: "Seeking to drive innovation and impact collaboratively",
   core: [ "Fullstack Development", "AI/Blockchain Development", "Mobile Development" ],
   languages: {
-    programming: ["TypeScript", "JavaScript", "Python", "Java", "Solidity", "HTML/CSS", "C", "Bash"],
+    programming: ["TypeScript", "JavaScript", "Python", "Java", "Solidity", "C", "Bash"],
     other: ["English", "Arabic", "German", "Turkish" ]
   },
   tech_stack: ["Next","React","Node", "React Native","Git",
