@@ -9,7 +9,7 @@ const Omar = {
   core: [ "Fullstack Development", "AI/Blockchain Development", "Mobile Development" ],
   languages: {
     programming: ["TypeScript", "JavaScript", "Python", "Java", "Solidity", "HTML/CSS", "C", "Bash"],
-    other: ["Arabic", "English", "German", "Turkish" ]
+    other: ["English", "Arabic", "German", "Turkish" ]
   },
   tech_stack: ["Next","React","Node", "React Native","Git",
               "Stripe", "Google Cloud","Web3JS"],
