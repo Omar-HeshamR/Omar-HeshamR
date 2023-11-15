@@ -34,6 +34,5 @@ if( solvingBigProblems == true || workingOnImpactfullProjects == true ){
     <img src= "https://raw.githubusercontent.com/Omar-HeshamR/Omar-HeshamR/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg">
     <img src= "https://raw.githubusercontent.com/Omar-HeshamR/Omar-HeshamR/master/profile-summary-card-output/solarized_dark/3-stats.svg">
     <img src= "https://raw.githubusercontent.com/Omar-HeshamR/Omar-HeshamR/master/profile-summary-card-output/solarized_dark/4-productive-time.svg">
-    <img src= "http://github-readme-streak-stats.herokuapp.com?user=Omar-HeshamR&theme=solarized-dark&hide_border=true">
 </p>
 
