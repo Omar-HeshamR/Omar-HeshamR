@@ -6,7 +6,6 @@ const Omar = {
   currently: "Student @ PSU",
   studying: "Computer Science and Math",
   core: [ "Fullstack Development", "Blockchain Development", "API Development", "Mobile Development" ],
-  interests: [ "AI/ML", "Prompt Engineering", "Algorithms", "UI/UX"],
   languages: {
     programming: ["TypeScript", "JavaScript", "Python", "Java", "Solidity", "HTML/CSS", "C", "Bash"],
     other: ["Arabic", "English", "German", "Turkish" ]
@@ -14,7 +13,8 @@ const Omar = {
   technologies: ["Next","React","React Native","Git",
                 "Node", "Stripe","AWS","Azure",
                 "Google Cloud","Express","Web3JS",
-                "Thirdweb", "web3.storage", "APIs"]
+                "Thirdweb", "web3.storage", "APIs"],
+  interests: [ "AI/ML", "Prompt Engineering", "Algorithms", "UI/UX"],
 }
 ```
 
