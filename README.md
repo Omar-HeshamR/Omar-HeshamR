@@ -27,7 +27,6 @@ if( solvingBigProblems == true || workingOnImpactfullProjects == true ){
 }
 
 ```
-![Profile Visitors](https://komarev.com/ghpvc/?username=Omar-HeshamR&color=073642&style=flat-square)
 <p align="center">
     <img src="https://raw.githubusercontent.com/Omar-HeshamR/Omar-HeshamR/master/profile-summary-card-output/solarized_dark/0-profile-details.svg">
     <img src= "https://raw.githubusercontent.com/Omar-HeshamR/Omar-HeshamR/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg">
