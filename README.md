@@ -15,6 +15,10 @@ const Omar = {
               "Stripe", "Google Cloud","Web3JS"],
   interests: [ "AI/ML", "Prompt Engineering", "Algorithms", "UI/UX" ]
 }
+if( solvingBigProblem == true || workingOnImpactfullProjects == true ){
+  team.append(Omar);
+  console.log("success!");
+}
 ```
 
 <!--
