@@ -5,6 +5,7 @@ const Omar = {
   full_name: "Omar Rady",
   currently: "Student @ PSU",
   studying: "Computer Science and Math",
+  objective: "Seeking to drive innovation and impact collaboratively",
   core: [ "Fullstack Development", "Blockchain Development", "API Development", "Mobile Development" ],
   languages: {
     programming: ["TypeScript", "JavaScript", "Python", "Java", "Solidity", "HTML/CSS", "C", "Bash"],
@@ -14,7 +15,7 @@ const Omar = {
                 "Node", "Stripe","AWS","Azure",
                 "Google Cloud","Express","Web3JS",
                 "Thirdweb", "web3.storage", "APIs"],
-  interests: [ "AI/ML", "Prompt Engineering", "Algorithms", "UI/UX"],
+  interests: [ "AI/ML", "Prompt Engineering", "Algorithms", "UI/UX"]
 }
 ```
 
