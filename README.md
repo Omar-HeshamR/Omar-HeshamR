@@ -11,10 +11,8 @@ const Omar = {
     programming: ["TypeScript", "JavaScript", "Python", "Java", "Solidity", "HTML/CSS", "C", "Bash"],
     other: ["Arabic", "English", "German", "Turkish" ]
   },
-  technologies: ["Next","React","React Native","Git",
-                "Node", "Stripe","AWS","Azure",
-                "Google Cloud","Express","Web3JS",
-                "Thirdweb", "web3.storage", "APIs"],
+  tech_stack: ["Next","React","Node", "React Native","Git",
+              "Stripe", "Google Cloud","Web3JS"],
   interests: [ "AI/ML", "Prompt Engineering", "Algorithms", "UI/UX" ]
 }
 ```
