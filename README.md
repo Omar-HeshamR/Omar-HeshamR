@@ -7,9 +7,10 @@ const Omar = {
     programming: ["TypeScript", "JavaScript", "Python", "Java", "Solidity", "HTML", "CSS", "C", "Bash", "Scheme" ],
     other: ["Arabic", "English", "German", "Turkish" ]
   },
-  technologies: ["Next","React","React Native","Git", "Node",
-                "Stripe","AWS","Azure","Google Cloud","Express",
-                "Web3JS", "Thirdweb", "web3.storage", "APIs"]
+  technologies: ["Next","React","React Native","Git",
+                "Node", "Stripe","AWS","Azure",
+                "Google Cloud","Express","Web3JS",
+                "Thirdweb", "web3.storage", "APIs"]
 }
 ```
 
