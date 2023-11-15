@@ -17,8 +17,13 @@ const Omar = {
 }
 
 if( solvingBigProblems == true || workingOnImpactfullProjects == true ){
-  team.push(Omar);
-  console.log("success!");
+  try{
+    team.push(Omar);
+    console.log("success!");
+  }catch(err){
+    console.log("You didn't contact yet!");
+    console.log("Contact at omarhishamk@gmail.com");
+  }
 }
 
 ```
