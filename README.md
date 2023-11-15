@@ -4,7 +4,7 @@
 const Omar = {
   full_name: "Omar Rady",
   currently: "Student @ PSU",
-  studying: "Computer Science and Math"
+  studying: "Computer Science and Math",
   core: [ "Fullstack Development", "Blockchain Development", "API Development", "Mobile Development" ],
   interests: [ "AI/ML", "Prompt Engineering", "Algorithms", "UI/UX"],
   languages: {
