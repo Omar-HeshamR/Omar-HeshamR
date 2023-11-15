@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+```javascript
+const Omar = {
+  core = [ Fullstack Development, Prompt Engineer, Blockchain Development, AI/ML Engineer ]
+}
+```
+
 <!--
 **Omar-HeshamR/Omar-HeshamR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
