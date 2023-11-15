@@ -2,9 +2,10 @@
 
 ```javascript
 const Omar = {
-  core: [ "Fullstack Development", " GPT Prompt Engineer", "Blockchain Development", "API Development", "Mobile Development" ],
+  core: [ "Fullstack Development", "Blockchain Development", "API Development", "Mobile Development" ],
+  interests: [ "AI/ML", "Prompt Engineering", "Algorithms", "UI/UX"]
   languages: {
-    programming: ["TypeScript", "JavaScript", "Python", "Java", "Solidity", "HTML", "CSS", "C", "Bash", "Scheme" ],
+    programming: ["TypeScript", "JavaScript", "Python", "Java", "Solidity", "HTML", "CSS", "C", "Bash"],
     other: ["Arabic", "English", "German", "Turkish" ]
   },
   technologies: ["Next","React","React Native","Git",
