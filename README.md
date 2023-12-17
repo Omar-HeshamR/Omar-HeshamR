@@ -25,13 +25,3 @@ if( solvingBigProblems == true || workingOnImpactfullProjects == true ){
     console.log("Contact at omarhishamk@gmail.com");
   }
 }
-
-```
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Omar-HeshamR/Omar-HeshamR/master/profile-summary-card-output/solarized_dark/0-profile-details.svg">
-    <img src= "https://raw.githubusercontent.com/Omar-HeshamR/Omar-HeshamR/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg">
-    <img src= "https://raw.githubusercontent.com/Omar-HeshamR/Omar-HeshamR/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg">
-    <img src= "https://raw.githubusercontent.com/Omar-HeshamR/Omar-HeshamR/master/profile-summary-card-output/solarized_dark/3-stats.svg">
-    <img src= "https://raw.githubusercontent.com/Omar-HeshamR/Omar-HeshamR/master/profile-summary-card-output/solarized_dark/4-productive-time.svg">
-</p>
-
