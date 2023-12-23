@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 
+![banner](https://github.com/Omar-HeshamR/Omar-HeshamR/assets/106610412/aaf0778b-1ae0-4d15-9e91-332b2baeefe5)
 
 ```javascript
 const Omar = {
