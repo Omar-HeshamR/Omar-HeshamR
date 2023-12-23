@@ -12,7 +12,7 @@ const Omar = {
     other: ["English", "Arabic", "German"]
   },
   tech_stack: ["Next","React","Node", "React Native","Git",
-              "Stripe", "Google Cloud","Ethers"],
+              "Stripe", "Google Cloud","Ethers", "Hugging Face"],
   interests: [ "Full Stack", "AI/ML", "Prompt Engineering", "Blockchain", "EdTech", "Fintech", "Algorithms", "UI/UX" ]
 }
 
