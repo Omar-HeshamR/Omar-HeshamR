@@ -8,10 +8,11 @@ const Omar = {
   core: [ "Fullstack Development", "AI/Blockchain Development", "Mobile Development" ],
   languages: {
     programming: ["TypeScript", "JavaScript", "Python", "Java", "Solidity", "C", "Bash"],
+    currently_learning: ["Rust"]
     other: ["English", "Arabic", "German"]
   },
   tech_stack: ["Next","React","Node", "React Native","Git",
-              "Stripe", "Google Cloud","Web3JS"],
+              "Stripe", "Google Cloud","Ethers"],
   interests: [ "Full Stack", "AI/ML", "Prompt Engineering", "Blockchain", "EdTech", "Fintech", "Algorithms", "UI/UX" ]
 }
 
