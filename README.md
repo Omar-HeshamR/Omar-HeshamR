@@ -13,7 +13,8 @@ const Omar = {
   },
   tech_stack: ["Next","React","Node", "React Native","Git",
               "Stripe", "Google Cloud","Ethers", "Hugging Face"],
-  interests: [ "Full Stack", "AI/ML", "Prompt Engineering", "Blockchain", "EdTech", "Fintech", "Algorithms", "UI/UX" ]
+  interests: [ "Full Stack", "AI/ML", "Prompt Engineering", "Blockchain",
+               "EdTech", "Fintech", "Algorithms", "UI/UX" ]
 }
 
 if( solvingBigProblems == true || workingOnImpactfullProjects == true ){
