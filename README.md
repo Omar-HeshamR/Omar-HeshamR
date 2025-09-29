@@ -3,9 +3,9 @@
 ```javascript
 const Omar = {
   full_name: "Omar Rady",
-  currently: "Student @ PSU",
-  studying: "Computer Science and Math",
-  core: [ "Fullstack Development", "AI/Blockchain Development", "Mobile Development" ],
+  current_role: "Cofounder @ Studdy, OfferPilot",
+  studying: "Computer Science and Math @ PSU",
+  core: [ "AI & Agent Engineering", "Fullstack Engineering"],
   languages: {
     programming: ["TypeScript", "JavaScript", "Python", "Java", "Solidity", "C", "Bash"],
     currently_learning: ["Rust"],
@@ -14,7 +14,7 @@ const Omar = {
   tech_stack: ["Next","React","Node", "React Native","Git",
               "Stripe", "Google Cloud","Ethers", "Hugging Face"],
   interests: [ "Full Stack", "AI/ML", "Prompt Engineering", "Blockchain",
-               "EdTech", "Fintech", "Algorithms", "UI/UX" ]
+               "EdTech", "Fintech", "Algorithms", "UI/UX", "Mobile Dev" ]
 }
 
 if( solvingBigProblems == true || workingOnImpactfullProjects == true ){
