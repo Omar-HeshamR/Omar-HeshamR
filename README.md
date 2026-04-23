@@ -3,7 +3,7 @@
 ```javascript
 const Omar = {
   full_name: "Omar Rady",
-  current_role: "Cofounder @ Studdy, OfferPilot",
+  current_role: "Cofounder @ Stealth",
   school: "Computer Science and Math @ PSU",
   core: [ "AI & Agent Engineering", "Blockchain Development"],
   languages: {
@@ -26,8 +26,8 @@ if( solvingBigProblems == true || workingOnImpactfullProjects == true ){
   }
 }
 ```
-Working on: <a href="https://www.studdyai.com" rel="follow index" target="_blank">Studdy</a>
-Working on: <a href="https://www.offerpilotai.com" rel="follow index" target="_blank">OfferPilot</a>
+Worked on: <a href="https://www.studdyai.com" rel="follow index" target="_blank">Studdy</a>
+Worked on: <a href="https://www.offerpilotai.com" rel="follow index" target="_blank">OfferPilot</a>
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-heshamr&theme=default" alt="omar-heshamr" /></p> -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-heshamr&show_icons=true&locale=en&layout=compact" alt="omar-heshamr" /></p> -->
