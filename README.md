@@ -3,16 +3,17 @@
 ```javascript
 const Omar = {
   full_name: "Omar Rady",
-  current_role: "Cofounder @ Stealth",
-  school: "Computer Science and Math @ PSU",
-  core: [ "AI & Agent Engineering", "Blockchain Development"],
+  current_role: "Cofounder @ Stealth Startup",
+  previous_roles: ["Cofounder @ Studdy (YC-S23)", "Cofounder @ OfferPilot"],
+  core_foucs: ["Product & Growth", "AI & Agent Engineering"],
+  education: "Computer Science and Math @ PSU",
   languages: {
     programming: ["TypeScript", "JavaScript", "Python", "Solidity", "C",  "Java"],
     other: ["English", "Arabic", "German"]
   },
   tech_stacks: ["Next","React","Node", "React Native","Git", "AWS", "Azure",
               "Stripe", "Google Cloud","Ethers", "Hugging Face"],
-  interests: [ "Full Stack", "AI/ML", "Prompt Engineering", "Blockchain",
+  interests: [ "Full Stack", "AI/ML", "Context Engineering", "Blockchain",
                "EdTech", "Fintech", "Algorithms", "UI/UX", "Mobile Dev" ]
 }
 
